@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Controller;
 
-use OCA\Liqueous\AppInfo\Application;
-use OCA\Liqueous\Controller\ApiController;
+use OCA\LiqueousApp\AppInfo\Application;
+use OCA\LiqueousApp\Controller\ApiController;
 use OCP\IRequest;
 use PHPUnit\Framework\TestCase;
 

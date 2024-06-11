@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace OCA\Liqueous\Controller;
+namespace OCA\LiqueousApp\Controller;
 
 use OCP\AppFramework\Http;
 use OCP\AppFramework\Http\Attribute\ApiRoute;

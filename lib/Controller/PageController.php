@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace OCA\Liqueous\Controller;
+namespace OCA\LiqueousApp\Controller;
 
-use OCA\Liqueous\AppInfo\Application;
+use OCA\LiqueousApp\AppInfo\Application;
 use OCP\AppFramework\Controller;
 use OCP\AppFramework\Http\Attribute\FrontpageRoute;
 use OCP\AppFramework\Http\Attribute\NoAdminRequired;

@@ -1,17 +1,17 @@
 {
-	"name": "nextcloud/liqueous",
-	"description": "- App for connecting liqueous with nextcloud",
+	"name": "nextcloud/liqueousapp",
+	"description": "Hello world",
 	"license": "AGPL-3.0-or-later",
 	"authors": [
 		{
-			"name": "Muneeb Ur Rehman",
+			"name": "MunibUr Rehman",
 			"email": "engr.munib07@gmail.com",
 			"homepage": ""
 		}
 	],
 	"autoload": {
 		"psr-4": {
-			"OCA\\Liqueous\\": "lib/"
+			"OCA\\LiqueousApp\\": "lib/"
 		}
 	},
 	"scripts": {

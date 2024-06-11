@@ -1,9 +1,9 @@
 {
     "openapi": "3.0.3",
     "info": {
-        "title": "liqueous",
+        "title": "liqueousapp",
         "version": "0.0.1",
-        "description": "An application which will connect liqueous with nextcloud",
+        "description": "Hello world",
         "license": {
             "name": "agpl"
         }
@@ -47,7 +47,7 @@
         }
     },
     "paths": {
-        "/ocs/v2.php/apps/liqueous/api": {
+        "/ocs/v2.php/apps/liqueousapp/api": {
             "get": {
                 "operationId": "api-index",
                 "summary": "An example API endpoint",
