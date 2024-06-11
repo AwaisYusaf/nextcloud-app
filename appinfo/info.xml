@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>liqueous</id>
+	<name>Liqueous</name>
+	<summary>An application which will connect liqueous with nextcloud</summary>
+	<description>- App for connecting liqueous with nextcloud</description>
+	<version>1.0.0</version>
+	<licence>agpl</licence>
+	<author mail="engr.munib07@gmail.com" homepage="">Muneeb Ur Rehman</author>
+	<namespace>Liqueous</namespace>
+	<category>customization</category>
+	<category>dashboard</category>
+	<category>tools</category>
+	<bugs>https://liqueous.com</bugs>
+	<dependencies>
+		<nextcloud min-version"29" max-version="29"/>
+	</dependencies>
+	<navigations>
+		<navigation>
+			<id>liqueous</id>
+			<name>Liqueous</name>
+			<route>liqueous.page.index</route>
+			<icon>app.svg</icon>
+			<type>link</type>
+		</navigation>=
+	</navigations>
+</info>
